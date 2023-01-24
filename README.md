@@ -1,8 +1,7 @@
 
 ### Hello, I'm Lucas! 👋 And I just love technology and programming.
 ###
-
-![Lucas Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=radical)
 ### 
 
 
