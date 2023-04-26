@@ -1,34 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@LucwsH 
-Spyei
-/
-Spyei
-Public
-Fork your own copy of Spyei/Spyei
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-Spyei/README.md
-@Spyei
-Spyei Update README.md
-Latest commit 776fbac on Mar 12
- History
- 1 contributor
-35 lines (26 sloc)  2.34 KB
- 
 
-# ( 👋 | Olá Mundo! )
+ # ( 👋 | Olá Mundo! )
 
 <h3>Curto fazer aplicações para o discord.<h3/>
 
@@ -63,17 +34,3 @@ Latest commit 776fbac on Mar 12
 
 
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
