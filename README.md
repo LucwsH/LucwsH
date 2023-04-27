@@ -1,7 +1,7 @@
 
  # ( 👋 | Hello World! )
 
-<h3>Gosto de fazer programa.<h3/>
+<h3>Olá, meu nome é Lucas e eu gosto de fazer programa.<h3/>
 
 <div align="center">
   <a href="https://github.com/LucwwsH">
