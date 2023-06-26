@@ -4,7 +4,7 @@
 <h3>Olá, meu nome é Lucas e eu gosto de fazer programa.<h3/>
 
 <div align="center">
-  <a href="https://github.com/LucwwsH">
+  <a href="https://github.com/LucwsH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
    #
