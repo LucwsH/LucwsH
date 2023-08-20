@@ -36,13 +36,13 @@
 
 #
 
-## Contatos
+<div style="display: inline_block">
+  <h3>Contatos<h3/>
 
-<div>
+
 <a href = "mailto:lucashenri0228@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <a href="https://discord.com/users/1057354767111831623"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+</div>
 
 #
 
