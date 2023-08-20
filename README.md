@@ -46,7 +46,6 @@
 
 #
 
-![Snake animation](https://github.com/LucwsH/LucwsH/blob/output/github-contribution-grid-snake.svg)
 
 
 
