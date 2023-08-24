@@ -1,5 +1,5 @@
 
- # ( 👋 | Hello World! )
+ # [ 👋 | Hello World! ]
 
 <h3>Olá, meu nome é Lucas e eu sou um entusiasta na programação!<h3/>
 
