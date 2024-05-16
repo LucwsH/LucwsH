@@ -21,11 +21,9 @@
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-    <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
 <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-<img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 </div>
 
 #
