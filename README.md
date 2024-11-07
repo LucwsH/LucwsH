@@ -16,7 +16,7 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     <img 
         alt="Discord" 
         title="Discord" 
-        src="https://custom-icon-badges.demolab.com/badge/Discord%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     />
     </a>
     <a href="https://github.com/LucwsH?tab=repositories&sort=stargazers">
