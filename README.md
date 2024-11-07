@@ -126,5 +126,6 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
 [![Discord](https://lanyard.cnrad.dev/api/1057354767111831623)](https://discord.com/users/1057354767111831623)
 
