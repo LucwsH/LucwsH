@@ -121,8 +121,3 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
   />
 </p>
 
----
-
-### ⏳Commits
-
-<img src="https://raw.githubusercontent.com/LucwsH/LucwsH/output/snake.svg" alt="Snake animation" />
