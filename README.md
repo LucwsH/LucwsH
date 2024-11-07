@@ -16,7 +16,7 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCMkio6eQa2cEPbwQLlY0q4g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/LucwsH?tab=repositories&sort=stargazers">
