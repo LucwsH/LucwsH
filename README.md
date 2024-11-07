@@ -9,7 +9,7 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     <img 
         alt="Email" 
         title="Entre em contato por email" 
-        src="https://custom-icon-badges.demolab.com/badge/lucasalmeidadev.contato@gmail.com-blue?style=for-the-badge&logo=email&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/E-mail-blue?style=for-the-badge&logo=email&logoColor=white"
     />
     </a>
     <a href="https://github.com/LucwsH?tab=repositories&sort=stargazers">
