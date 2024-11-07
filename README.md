@@ -5,20 +5,13 @@
 My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering student. Passionate about technology, i'm always looking for new opportunities to expand my knowledge and share what I learn. Currently, i participate in a project called "[AlchemyCodes](https://www.alchemycodes.com.br/)", where i collaborate in the development of innovative and personalized solutions for several clients.
 
 <p align="left">
-    <a href="https://www.youtube.com/@lucwsh?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMkio6eQa2cEPbwQLlY0q4g?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+    <a href="lucasalmeidadev.contato@gmail.com">
+    <img 
+        alt="Email" 
+        title="Entre em contato por email" 
+        src="https://custom-icon-badges.demolab.com/badge/lucasalmeidadev.contato@gmail.com-blue?style=for-the-badge&logo=email&logoColor=white"
+    />
     </a>
-    <a href="https://www.youtube.com/@lucwsh">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCMkio6eQa2cEPbwQLlY0q4g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/LucwsH?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
