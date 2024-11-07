@@ -23,14 +23,14 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
         <img 
             alt="Total stars" 
             title="Total stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucwsH?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucwsH?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/LucwsH?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucwsH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucwsH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
