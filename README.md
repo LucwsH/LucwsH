@@ -117,7 +117,7 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     alt="GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=en" 
   />
 </p>
 
