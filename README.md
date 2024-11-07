@@ -1,6 +1,6 @@
-# 👨‍💻Lucas Almeida [![wakatime](https://wakatime.com/badge/user/85ab6065-f95e-409c-956f-7c2e047ed528.svg)](https://wakatime.com/@85ab6065-f95e-409c-956f-7c2e047ed528)
+# 👨‍💻Lucas Almeida
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor BackEnd`** [![wakatime](https://wakatime.com/badge/user/85ab6065-f95e-409c-956f-7c2e047ed528.svg)](https://wakatime.com/@85ab6065-f95e-409c-956f-7c2e047ed528)
 
 Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Computação. Apaixonado por tecnologia, estou sempre em busca de novas oportunidades para expandir meu conhecimento e compartilhar o que aprendo. Atualmente, participo de um projeto chamado "[AlchemyCodes](https://www.alchemycodes.com.br/)", onde colaboro no desenvolvimento de soluções inovadoras e personalizadas para diversos clientes. 
 
