@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`** 
 
-Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Computação. Apaixonado por tecnologia, estou sempre em busca de novas oportunidades para expandir meu conhecimento e compartilhar o que aprendo. Atualmente, participo de um projeto chamado "[AlchemyCodes](https://www.alchemycodes.com.br/)", onde colaboro no desenvolvimento de soluções inovadoras e personalizadas para diversos clientes. 
+My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering student. Passionate about technology, i'm always looking for new opportunities to expand my knowledge and share what I learn. Currently, i participate in a project called "[AlchemyCodes](https://www.alchemycodes.com.br/)", where i collaborate in the development of innovative and personalized solutions for several clients.
 
 <p align="left">
     <a href="https://www.youtube.com/@lucwsh?sub_confirmation=1">
@@ -37,7 +37,7 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
 
 ---
 
-### 🖥️ Linguagens e Ferramentas
+### 🖥️ Languages ​​and Tools
 
 <img 
     align="left" 
