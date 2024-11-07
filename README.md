@@ -37,7 +37,7 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
 
 ---
 
-### 🤖 Linguagens e Ferramentas
+### 🖥️ Linguagens e Ferramentas
 
 <img 
     align="left" 
@@ -107,7 +107,9 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
 <br/>
 <br/>
 
-### 📊 Métricas
+---
+
+### 📈 Métricas
 
 <p>
   <img 
