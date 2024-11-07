@@ -5,7 +5,7 @@
 My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering student. Passionate about technology, i'm always looking for new opportunities to expand my knowledge and share what I learn. Currently, i participate in a project called "[AlchemyCodes](https://www.alchemycodes.com.br/)", where i collaborate in the development of innovative and personalized solutions for several clients.
 
 <p align="left">
-    <a href="lucasalmeidadev.contato@gmail.com">
+    <a href="mailto:lucasalmeidadev.contato@gmail.com">
     <img 
         alt="Email" 
         title="Entre em contato por email" 
