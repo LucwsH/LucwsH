@@ -57,6 +57,30 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MariaDB" 
+    title="MariaDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
