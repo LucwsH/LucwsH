@@ -119,7 +119,6 @@ Meu nome é Lucas Almeida, tenho 17 anos e sou estudante de Engenharia da Comput
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
+</p>
 
 <img src="https://raw.githubusercontent.com/LucwsH/LucwsH/output/snake.svg" alt="Snake animation" />
-
-</p>
