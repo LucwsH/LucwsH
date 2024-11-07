@@ -109,12 +109,6 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
 
 ---
 
-### 🪪 Discord
-
-[![Discord](https://lanyard.cnrad.dev/api/1057354767111831623)](https://discord.com/users/1057354767111831623)
-
----
-
 ### 📈 Metrics
 
 <p>
