@@ -8,8 +8,8 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     <a href="mailto:lucasalmeidadev.contato@gmail.com">
     <img 
         alt="Email" 
-        title="Entre em contato por email" 
-        src="https://custom-icon-badges.demolab.com/badge/Contato-blue?style=for-the-badge&logo=email&logoColor=white"
+        title="Contact me by email" 
+        src="https://custom-icon-badges.demolab.com/badge/Contact-blue?style=for-the-badge&logo=email&logoColor=white"
     />
     </a>
     <a href="https://discord.com/users/1057354767111831623">
@@ -21,15 +21,15 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
     </a>
     <a href="https://github.com/LucwsH?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="Total stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/LucwsH?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/LucwsH?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me" 
             src="https://custom-icon-badges.demolab.com/github/followers/LucwsH?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -114,7 +114,7 @@ My name is Lucas Almeida, i'm 17 years old and i'm a Computer Engineering studen
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucwsH&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
