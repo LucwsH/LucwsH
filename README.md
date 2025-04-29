@@ -2,7 +2,7 @@
 
 **`BackEnd Developer`** 
 
-My name is Lucas Almeida, I'm 18 years old and I'm studying Computer Engineering. Passionate about technology, I'm always looking for new opportunities to expand my knowledge and share what I learn. I am currently participating in a project called "[AlchemyCodes](https://www.alchemycodes.com.br/)", where I collaborate in the development of innovative and personalized solutions for different clients.
+My name is Lucas Almeida, i’m 18 years old and currently studying Computer Engineering. Passionate about technology, I’m always seeking new opportunities to broaden my knowledge and share what i learn. At the moment, i’m part of a project called "[AlchemyCodes](https://www.alchemycodes.com.br/)", where i help develop innovative and customized solutions for a variety of clients.
 
 <p align="left">
     <a href="mailto:lucasalmeidadev.contato@gmail.com">
